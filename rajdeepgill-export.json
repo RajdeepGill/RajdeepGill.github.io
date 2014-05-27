@@ -1,0 +1,454 @@
+{
+  "aboutMe" : {
+      "name" : "Rajdeep Gill",
+      "profession" : "Software & Web Developer",
+      "summary" : "I’m a reliable self-starter and quick learner who is always learning and always curious. I'm an enthusiastic and motivated problem solver. Through my project experiences I have demonstrated proficiency in problem detection, analysis, and resolution. I enjoy collaborating with dedicated people, self-improvement and providing meaningful contributions. I'm not afraid of asking for help when I need it, admitting that I don't know something, or criticizing constructively. My goal is to create innovative solutions across multiple and diverse industries."
+  },
+  "workExperiences" : {
+    "TwiceTheDeal" : {
+      "location" : "Woodstock, Ontario",
+      "position" : "Junior Manager",
+      "link" : "http://www.twicethedealpizza.com/",
+      "description" : "Developed in the recession of the mid 90's as an alternative to the other high priced pizzeria’s, our company has grown to serve our dedicated customers in the communities surrounding the southwest region of Ontario, Canada. Great Meals - Great Deals . Pure and simple . Starting with our hand stretched pizzas to our Combo Deals are why our company is known as Twice The Deal Pizza ! Our success story begins with service and commitment to our customers and franchisee’s. ",
+      "responsibilities" : [ {
+        "responsibilitie" : "Recruited employees through online resources such as kijiji"
+      }, {
+        "responsibilitie" : "Trained 10 employees on how to take customer orders, cater the pizza, keep machines and workplace clean to Ontario health standards"
+      }, {
+        "responsibilitie" : "Handled stock ordering and inventory management twice a week"
+      }, {
+        "responsibilitie" : "Balanced cash and sales receipts on average of $700 cash daily"
+      } ],
+      "name" : "Twice The Deal",
+      "duration" : "2010 – 2012"
+    },
+    "Myplanet" : {
+      "location" : "Toronto, Ontario",
+      "position" : "Fellow",
+      "link" : "http://myplanet.io/",
+      "description" : "Myplanet empowers organizations with UX design & technology solutions to support the delivery of great web-based products. The 12 week Fellowship program took me through MyPlanet's Lean, Agile, and User-Centered Design process in building, iterating and shipping web applications.",
+      "responsibilities" : [ {
+        "responsibilitie" : "Worked as part of a scrum team to create a web application to be used by a real stakeholder"
+      }, {
+        "responsibilitie" : "Gained valuable real world experience using AngularJS, Bootstrap, node.js as well as various open-source database systems such as MongoDB"
+      }, {
+        "responsibilitie" : "Conducted user interviews, contextual inquiries, comparative analysis and story mapping after initial stakeholder interview"
+      }, {
+        "responsibilitie" : "Ran design studios, interaction modelling, art board mockups and designed web components in rapid iterations"
+      }, {
+        "responsibilitie" : "Practiced building HTML prototypes in week long sprints while constantly validating results"
+      }, {
+        "responsibilitie" : "Developed user testing hypothesis and strategies to continuously deliver the right product"
+      } ],
+      "name" : "Myplanet",
+      "duration" : "2014 – March 29, 2014"
+    }
+  },
+  "socialMedia" : {
+    "Tumblr" : {
+      "link" : "http://rajdeepgill.tumblr.com/",
+      "description" : "",
+      "name" : "Tumblr",
+      "path" : "img/Tumblr.png"
+    },
+    "Twitter" : {
+      "link" : "https://twitter.com/RajdeepSG",
+      "description" : "",
+      "name" : "Twitter",
+      "path" : "img/Twitter.png"
+    },
+    "Vimeo" : {
+      "link" : "https://vimeo.com/rajdeep",
+      "description" : "",
+      "name" : "Vimeo",
+      "path" : "img/Vimeo.png"
+    },
+    "Google+" : {
+      "link" : "https://plus.google.com/u/0/114446185726124074364/posts",
+      "description" : "",
+      "name" : "Google+",
+      "path" : "img/GooglePlus.png"
+    },
+    "Pinterest" : {
+      "link" : "http://www.pinterest.com/RajdeepSG/",
+      "description" : "",
+      "name" : "Pinterest",
+      "path" : "img/Pinterest.png"
+    },
+    "Instagram" : {
+      "link" : "http://instagram.com/rajdeepgill7",
+      "description" : "",
+      "name" : "Instagram",
+      "path" : "img/Instagram.png"
+    },
+    "Facebook" : {
+      "link" : "https://www.facebook.com/RajdeepGillS",
+      "description" : "",
+      "name" : "Facebook",
+      "path" : "img/Facebook.png"
+    },
+    "Linkedin" : {
+      "link" : "http://ca.linkedin.com/in/rajdeepg/",
+      "description" : "",
+      "name" : "Linkedin",
+      "path" : "img/Linkedin.png"
+    },
+    "YouTube" : {
+      "link" : "https://www.youtube.com/user/RajdeepTV",
+      "description" : "",
+      "name" : "YouTube",
+      "path" : "img/YouTube.png"
+    },
+    "GitHub" : {
+      "link" : "https://github.com/RajdeepGill",
+      "description" : "",
+      "name" : "GitHub",
+      "path" : ".//img/GitHub.png"
+    }
+  },
+  "skills" : {
+    "general" : [ {
+      "skill" : "Adept in Java, Python, C, HTML5, CSS3, JavaScript, jQuery, PHP, Databases, SQL and MS Office"
+    }, {
+      "skill" : "Experienced in software and web development"
+    }, {
+      "skill" : "Well-developed interpersonal speech and written communication skills"
+    }, {
+      "skill" : "Proficient in problem detection, analysis, and resolution"
+    }, {
+      "skill" : "Fully adaptable to rapidly changing technical environments"
+    }, {
+      "skill" : "Developed leadership skills working with groups at for software engineering projects via GitHub, Eclipse and MagicDraw"
+    }, {
+      "skill" : "Exposed to web design and databases through MyPlanet, Laurier NET and CP363 DB Course"
+    }, {
+      "skill" : "Fluent in Punjabi and Hindi"
+    } ],
+    "thinkingPlanningOrganizational" : [ {
+      "skill" : "The ability to learn, understand and interpret information and apply knowledge to new situations"
+    }, {
+      "skill" : "The ability to set priorities, meet deadlines and effectively plan/manage time, data and resources"
+    }, {
+      "skill" : "Problem-solving skills and the ability to make well-reasoned decisions, think creatively and search for, identify and consider all sides of an issue"
+    }, {
+      "skill" : "Skills to effectively analyze and interpret a wide range of information and data to discuss, support and/or reject ideas, opinions, reports, theories and proposals"
+    } ],
+    "specificKnowledge" : [ {
+      "skill" : "Knowledge of the design and use of computer programming languages"
+    }, {
+      "skill" : "Ability to adapt to constant change and integrate new ideas into existing systems"
+    }, {
+      "skill" : "Aptitude for abstract reasoning, observation and focused concentration"
+    }, {
+      "skill" : "Knowledge of computer programming and applied computer analysis"
+    }, {
+      "skill" : "The ability to plan and organize technical information"
+    }, {
+      "skill" : "Skills in quantitative analysis, defining and solving problems"
+    }, {
+      "skill" : "Able to efficiently manage and navigate a constant flow of changing information"
+    }, {
+      "skill" : "The ability to function as a technical advisor and interpret technical information clearly"
+    }, {
+      "skill" : "Skills for influencing ideas and outcomes through the persuasive use of language and information"
+    }, {
+      "skill" : "Understanding of how to effectively manage people and relationships to accomplish organizational goals"
+    }, {
+      "skill" : "An understanding of how to effectively reveal and explain patterns using numerical information"
+    } ],
+    "informationCommunication" : [ {
+      "skill" : "The skills required to identify and access a wide range of relevant information and resources"
+    }, {
+      "skill" : "The ability to compile and organize facts and information and to comprehend and apply new and/or unfamiliar information to different situations and settings"
+    }, {
+      "skill" : "Skills in preparing interesting, creative and informative presentations which target diverse audiences"
+    }, {
+      "skill" : "The ability to develop attractive/effective reports, presentations and materials using current technology"
+    } ],
+    "teamworkManagement" : [ {
+      "skill" : "Skills enabling to work effectively as part of a team by identifying role and contributing, through leading, teaching, motivating and/or encouraging others, to the success of the team"
+    }, {
+      "skill" : "An understanding of how to successfully identify, plan and contribute to the goals of a project"
+    }, {
+      "skill" : "The ability to oversee, supervise and/or contribute to a project from beginning to end including determining outcomes, planning details, making decisions, assigning roles and completing task"
+    } ]
+  },
+  "courses" : {
+    "PC132" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=25080&cal=1&d=911&s=438&y=49",
+      "description" : "Calculus-based course, which introduces basic principles of physics. Detailed topics covered: elasticity, fluids, waves and sound, temperature and heat, the laws of thermodynamics, entropy, and an introduction to electricity.",
+      "course" : "Thermodynamics and Waves",
+      "term" : "winter2012",
+      "department" : "Physics",
+      "courseCode" : "PC132"
+    },
+    "BU288" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=32295&cal=1&d=1206&s=566&y=57",
+      "description" : "Individual, interpersonal and group processes are studied to examine the impact on management effectiveness. Methods of instruction could include cases, simulations, lectures and group activities.",
+      "course" : "Organizational Behaviour I",
+      "term" : "fall2012",
+      "department" : "Business",
+      "courseCode" : "BU288"
+    },
+    "CP312" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28513&cal=1&d=1040&s=501&y=53",
+      "description" : "Analysis of the best, average and worst-case behaviors of algorithms. Algorithmic strategies: brute force algorithms, greedy algorithms, divide-and-conquer, branch and bound, backtracking. Fundamental computing algorithms: O(n log n) sorting, hash table, binary trees, depth- and breadth-first search of graphs. Practiced analysis of the best, average and worst-case behaviours of algorithms. Studied Algorithmic strategies: brute force algorithms, greedy.",
+      "course" : "Algorithm Design and Analysis I",
+      "term" : "fall2013",
+      "department" : "Computer Science",
+      "courseCode" : "CP312"
+    },
+    "CP114" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28507&cal=1&d=1040&s=501&y=53",
+      "description" : "continued programming in Python. Introduced to Analysis of algorithms, data structures, recursion, searching, sorting, linked lists, queues, stacks, trees.",
+      "course" : " Data Structures",
+      "term" : "winter2012",
+      "department" : "Computer Science",
+      "courseCode" : "CP114"
+    },
+    "CP120" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=25078&cal=1&d=911&s=438&y=49",
+      "description" : "Introduction to digital logic: logic gates, combinational circuit analysis using Boolean algebra and Karnaugh maps, number systems and codes, minimization techniques applied to combinational logic systems; flip-flops, multivibrators, counters and shift registers. (Cross-listed as CP120.).",
+      "course" : "Digital Electronics",
+      "term" : "winter2012",
+      "department" : "Computer Science",
+      "courseCode" : "CP120"
+    },
+    "BU255" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=32293&cal=1&d=1206&s=566&y=57",
+      "description" : "An introduction to classical statistics with emphasis on business and economic applications. Topics include probability distributions, estimation, hypothesis testing, simple and multiple regression, analysis of variance, chi-square tests and non-parametric statistics. Students will be taught why, where and how statistical techniques are applied. The computer will be used extensively. (Cross-listed as EC255.).",
+      "course" : "Managerial Statistics",
+      "term" : "fall2013",
+      "department" : "Business",
+      "courseCode" : "BU255"
+    },
+    "CP213" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28510&cal=1&d=1040&s=501&y=53",
+      "description" : "Fundamentals of object-oriented programming, classes, subclasses, inheritance, references, overloading, event-driven and concurrent programming, using modern application programming interface. The language Java will be used. Programmed in Java. Learned the fundamentals of object-oriented programming, classes, subclasses, inheritance, references, overloading, event-driven and concurrent programming interface.",
+      "course" : "Introduction to Object-oriented Programming",
+      "term" : "fall2012",
+      "department" : "Computer Science",
+      "courseCode" : "CP213"
+    },
+    "MA240" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28647&cal=1&d=1042&s=501&y=53",
+      "description" : "Data collection and description including univariate and bivariate frequency tables, histograms and summary statistics; elementary probability theory; random variables and expectations; sampling theory and the Central Limit Theorem; estimation and hypothesis testing for data from one and two normal populations.",
+      "course" : "Introduction to Probability and Statistics",
+      "term" : "fall2012",
+      "department" : "Mathematics",
+      "courseCode" : "MA240"
+    },
+    "BU111" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=32283&cal=1&d=1206&s=566&y=57",
+      "description" : "This course highlights challenges in the external business environment with a focus on their impact on business decisions. Topics include competitive analysis, and an in-depth examination of political, economic, social, and technological factors. Students will apply their knowledge using cases, and by identifying and researching the feasibility of a new venture/business opportunity. The course includes a required weekly lab in which research, writing, teamwork, and individual and group presentation skills are also developed.",
+      "course" : "Understanding the Business Environment",
+      "term" : "spring2012",
+      "department" : "Business",
+      "courseCode" : "BU111"
+    },
+    "CP386" : {
+      "url" : "https://www.wlu.ca/calendars/course.php?c=19007&cal=1&d=673&s=308&y=37",
+      "description" : "Topics include operating system services, file systems, CPU scheduling, memory management, virtual memory, disk scheduling, deadlocks, concurrent processes, protection and distributed systems.",
+      "course" : "Operating Systems",
+      "term" : "fall2013",
+      "department" : "Computer Science",
+      "courseCode" : "CP386"
+    },
+    "BU231" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=32290&cal=1&d=1206&s=566&y=57",
+      "description" : "This is a practical course in business law and deals with the basic legal principles in those areas of the law considered essential for the business student. Emphasis is placed on the law of contract, Canadian legal institutions, tort law, business associations, business transactions, and various types of contracts found in the context of business relations. Where possible actual court decisions are studied so the student will be made aware of the judicial approach in dealing with particular problems.",
+      "course" : "Business Law",
+      "term" : "fall2013",
+      "department" : "Business",
+      "courseCode" : "BU231"
+    },
+    "EC102" : {
+      "url" : "http://www.ucalendar.uwaterloo.ca/1415/COURSE/course-ECON.html#ECON100S",
+      "description" : "This course provides an introduction to macroeconomic analysis relevant for understanding the Canadian economy as a whole. The determinants of national output, the unemployment rate, the price level (inflation), interest rates, the money supply and the balance of payments, and the role of government fiscal and monetary policy are the main topics covered.",
+      "course" : "Introduction to Macroeconomics",
+      "term" : "spring2012",
+      "department" : "Economics",
+      "courseCode" : "EC102"
+    },
+    "CP317" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28516&cal=1&d=1040&s=501&y=53",
+      "description" : "Discussion of software development activities, including software process models, analysis, design, implementation, testing, project management and advanced topics. Both traditional and object-oriented methods are considered. Learned software process models, analysis, design, implementation, testing, project management. Worked with group of 24 members. Was a team leader of 5 members. Used GitHub to work on share code with the entire group.",
+      "course" : "Software Engineering",
+      "term" : "fall2013",
+      "department" : "Computer Science",
+      "courseCode" : "CP317"
+    },
+    "PC131" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28636&cal=1&d=1042&s=501&y=53",
+      "description" : "Calculus-based course, which introduces basic principles of physics. Detailed topics covered: one-dimensional motion, vectors, motion in two and three dimensions, force and motion, kinetic energy and work, potential energy, conservation of energy, collisions and momentum, rotational motion, simple harmonic motion, torque, angular momentum, and gravitation.",
+      "course" : " Mechanics",
+      "term" : "fall2011",
+      "department" : "Physics",
+      "courseCode" : "PC131"
+    },
+    "CP104" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28506&cal=1&d=1040&s=501&y=53",
+      "description" : "Learned how to program in Python with emphasis on problem-solving and structured program design methodologies.",
+      "course" : " Introduction to Programming",
+      "term" : "fall2011",
+      "department" : "Computer Science",
+      "courseCode" : "CP104"
+    },
+    "BU227" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=25755&cal=1&d=952&s=440&y=49",
+      "description" : "A study of basic accounting principles with emphasis on the recording, reporting and interpretation of financial data.",
+      "course" : "Introduction to Financial Accounting",
+      "term" : "winter2014",
+      "department" : "Business",
+      "courseCode" : "BU227"
+    },
+    "EC101" : {
+      "url" : "http://www.ucalendar.uwaterloo.ca/1415/COURSE/course-ECON.html#ECON100S",
+      "description" : "This course provides an introduction to microeconomic analysis relevant for understanding the Canadian economy. The behaviour of individual consumers and producers, the determination of market prices for commodities and resources, and the role of government policy in the functioning of the market system are the main topics covered.",
+      "course" : "Introduction to Microeconomics",
+      "term" : "spring2012",
+      "department" : "Economics",
+      "courseCode" : "EC101"
+    },
+    "CP373" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28538&cal=1&d=1040&s=501&y=53",
+      "description" : "Introduction to ethics, computer reliability and safety, privacy, computer crime, intellectual property, impact of computers on work and society. Assessment includes written assignments and oral presentations.",
+      "course" : "Ethics and Professional Practice in Computer Science",
+      "term" : "winter2014",
+      "department" : "Computer Science",
+      "courseCode" : "CP373"
+    },
+    "MA122" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28636&cal=1&d=1042&s=501&y=53",
+      "description" : "Systems of linear equations; algebra of complex numbers; algebra of matrices with real and complex entries; determinants and their applications; vector geometry in R2 and R3; spanning, linear independence and linear transformations in Rn and Cn ; introduction to eigenvalues and eigenvectors; applications of linear algebra.",
+      "course" : " Introductory Linear Algebra",
+      "term" : "fall2011",
+      "department" : "Mathematics",
+      "courseCode" : "MA122"
+    },
+    "MA110" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28634&cal=1&d=1042&s=501&y=53",
+      "description" : "A thorough introduction to limits of functions. Continuity and its consequences. Rational, algebraic and transcendental functions and geometric relationships. Theory and applications of differential and integral calculus of functions of a single variable. The Fundamental Theorem of Calculus and techniques of integration. Introduction to multivariable calculus and applications.",
+      "course" : "Introduction to Differential and Integral Calculus",
+      "term" : "winter2012",
+      "department" : "Mathematics",
+      "courseCode" : "MA110"
+    },
+    "CP217" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28540&cal=1&d=1040&s=501&y=53",
+      "description" : "Introduction to the C language. Contemporary ideas and techniques in system programming using the C language. Using and implementing software tools: filters, pipelines, sorts, text patterns and others. Introduction to Unix operating system and Unix commands. Shell programming in Unix. Introduced to the C language. Used and implemented software tools: filters, pipelines, sorts, and text patterns. Introduced to Unix operating system and Unix commands, Shell programming in Unix.",
+      "course" : "Introduction to System Programming",
+      "term" : "winter2013",
+      "department" : "Computer Science",
+      "courseCode" : "CP217"
+    },
+    "CP363" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28517&cal=1&d=1040&s=501&y=53",
+      "description" : "Introduction to database systems. Topics include data models, query languages, database design, recovery and concurrency, integrity and security. Studied database system theory, analysis, design, and implementation, Became familiar with key DBMS concepts. Learned data modeling tools and methodologies including UML. Set up and administer a relational database. Learned SQL and manipulated the contents of a relational database",
+      "course" : "Database I",
+      "term" : "winter2013",
+      "department" : "Computer Science",
+      "courseCode" : "CP363"
+    },
+    "MA238" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28646&cal=1&d=1042&s=501&y=53",
+      "description" : "Basic graph theory, Euler circuits and Hamilton cycles in graphs, planar graphs, graph colouring, trees, relations, partial orders, introduction to counting, recurrence relations, inclusion-exclusion.",
+      "course" : "Discrete Mathematics",
+      "term" : "winter2013",
+      "department" : "Mathematics",
+      "courseCode" : "MA238"
+    },
+    "CP372" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28519&cal=1&d=1040&s=501&y=53",
+      "description" : "Introduction to computer communication networks. The OSI reference model. Protocols for error and flow control, medium access protocols, routing and congestion control. Internet architecture and protocols and Unix network programming.",
+      "course" : "Computer Networks",
+      "term" : "winter2014",
+      "department" : "Computer Science",
+      "courseCode" : "CP372"
+    },
+    "BU352" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=25767&cal=1&d=952&s=440&y=49",
+      "description" : "This survey course introduces the student to the basic concepts of marketing. Emphasis is placed on consumer and environmental analysis, marketing strategy and the marketing mix. The course is designed to provide students with a broad understanding of the marketing process from the viewpoint of the marketing manager. The teaching method is lecture and discussion.",
+      "course" : "Introduction to Marketing Management",
+      "term" : "winter2014",
+      "department" : "Business",
+      "courseCode" : "BU352"
+    },
+    "MA205" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28641&cal=1&d=1042&s=501&y=53",
+      "description" : "First order differential equations; linear differential equations of second and higher order; methods of undetermined coefficients and variation of parameters; Laplace transforms; power series solutions.",
+      "course" : "Differential Equations I",
+      "term" : "fall2012",
+      "department" : "Mathematics",
+      "courseCode" : "MA205"
+    },
+    "BU121" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=32284&cal=1&d=1206&s=566&y=57",
+      "description" : "This course provides an overview to the functional areas of a business; specifically marketing, finance, operations, and human resources. The areas will be examined using an integrative model and by focusing on current issues such as sustainability. Students will apply their knowledge using cases, and by developing a business plan for a new venture. The course includes a required weekly lab in which teamwork, business writing, critical thinking, negotiating, and individual and group presentation skills are also developed.",
+      "course" : "Functional Areas of the Organization",
+      "term" : "spring2012",
+      "department" : "Business",
+      "courseCode" : "BU121"
+    },
+    "CP216" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28511&cal=1&d=1040&s=501&y=53",
+      "description" : "A comprehensive study of a current commercial microprocessor, its architecture and assembly language. Emphasis on (1) the relationship between architecture, assembly language and system operation, and (2) the relationship between assembly language, high level languages and operating systems.",
+      "course" : "Microprocessor I",
+      "term" : "winter2013",
+      "department" : "Computer Science",
+      "courseCode" : "CP216"
+    },
+    "CP315" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28514&cal=1&d=1040&s=501&y=53",
+      "description" : "An introduction to scientific computation, with substantial use of scientific software, such as Maple and Matlab. Scientific problems and models from different disciplines are considered. Numerical methods introduced in this course include interpolation, curve fitting, solving (systems of) linear and nonlinear equations, eigenvalue problems, integration and solving ordinary and partial differential equations. (Cross-listed as PC315.).",
+      "course" : "Introduction to Scientific Computation",
+      "term" : "winter2014",
+      "department" : "Computer Science",
+      "courseCode" : "CP315"
+    },
+    "MA121" : {
+      "url" : "http://www.wlu.ca/calendars/course.php?c=28635&cal=1&d=1042&s=501&y=53",
+      "description" : "An introduction to proofs and to mathematical writing. Methods of proof, such as direct proofs, proofs by contradiction, contrapositive proofs, counterexamples and mathematical induction. Examples of proofs will be illustrated using sets, functions and elementary number theory. Use of precise mathematical language will be emphasized.",
+      "course" : "Introduction to Mathematical Proofs",
+      "term" : "winter2012",
+      "department" : "Mathematics",
+      "courseCode" : "MA121"
+    }
+  },
+  "contactRequests" : {
+    "req2" : {
+      "name" : "Rajdeep Gill",
+      "message" : "you RULE",
+      "email" : "Rajdeep Gill",
+      "phone" : "519-505-2574",
+      "contactPref" : "phone"
+    },
+    "reg1" : {
+      "name" : "Rajdeep Gill",
+      "message" : "you RULE",
+      "email" : "Rajdeep Gill",
+      "phone" : "519-505-2574",
+      "contactPref" : "phone"
+    },
+    "-JNlWWu6Gxpltay5A1PG" : {
+      "phonenumber" : "519 505 2574",
+      "name" : "Rajdeep Gill",
+      "message" : "cool",
+      "email" : "rajdeep.gill@hotmail.com"
+    }
+  },
+  "activities" : {
+    "NET" : {
+      "position" : "VP of Programming",
+      "description" : "NET specializes in the management, maintenance and creation of custom websites for other Laurier clubs and organizations. As VP of Programming my responsibilities included organizing teams and projects in order to meet deadlines. I created original specific visual designs for club websites using Gimp. Developed the front end using HTML, CSS and Javascript.",
+      "name" : "NET",
+      "duration" : "2012 - present"
+    },
+    "PHI" : {
+      "position" : "General Member",
+      "description" : "PHI is a WLU club geared towards students in Computer Science, Physics, and Math. Our main objectives are to enrich and enhance students' academic experiences as well as foster a sense of community through social events. PHI realizes that simply going to class is not always the best way to learn. A sense of academic spirit in the department is what drives students to go beyond what they learn in class, to learn more, and to apply it. It is this spirit that PHI wants to create. We also realize that students need a way to connect with their peers outside of school on a purely social basis to create friendships and to pursue and create other interests. PHI enables students to get together and have fun in many different social atmospheres.",
+      "name" : "PHI",
+      "duration" : "2011 - present"
+    }
+  }
+}
