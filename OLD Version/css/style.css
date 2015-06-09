@@ -42,7 +42,7 @@ body, html {
 }
 .navbar-container{
 	text-align: center;
-	padding-left: 40%; 
+	padding-left: 35%; 
 }
 .navbar.navbar-fixed-top{
 	background-color: white;
@@ -106,15 +106,9 @@ ul.nav.navbar-nav{
 	background-color: rgba(70, 70, 70, 1);
 	color: white;
 }
-
 .nav-stacked>li+li, .nav-stacked>li.active {
 	margin-top: 0px;
-  margin-bottom: 0px;
 }
-.nav-stacked>li+li {
-  margin-top: 0px;
-}
-
 .nav.nav-pills.nav-stacked{
 	margin: 25px 15px;
 }
