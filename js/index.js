@@ -32,6 +32,6 @@ $(document).ready(function() {
 
 $(document).ready(function() {
   $('.navbar').mouseleave(function() {
-    $('.name').text('Rajdeep Singh Gill');
+    $('.name').text('Rajdeep Gill');
   }); 
 });
