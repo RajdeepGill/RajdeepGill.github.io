@@ -22,16 +22,3 @@ $(document).ready(function() {
       // $('button').text('Submit');
     });
 });
-
-
-$(document).ready(function() {
-  $('.navbar').mouseenter(function() {
-    $('.name').text('Software & Web Developer');
-  });
-});
-
-$(document).ready(function() {
-  $('.navbar').mouseleave(function() {
-    $('.name').text('Rajdeep Gill');
-  }); 
-});

@@ -33,9 +33,9 @@
       <div class = "collapse navbar-collapse" id="collapse">
         <div class = "navbar-container">
           <ul class="nav navbar-nav">
-            <li class = "active"><a href="index.html">Home</a></li>
+            <li class = ""><a href="index.html">Home</a></li>
             <li class = ""><a href="resume.html">Resume</a></li>
-            <li class = ""><a href="findMe.html">Find Me</a></li>
+            <li class = "active"><a href="findMe.html">Find Me</a></li>
             <!-- <li class = ""><a href="#social" data-toggle="tab">Find Me</a></li>-->
             <!-- <li class = ""><a href="#contactMe" data-toggle="tab">Contact Me</a></li> -->
           </ul>
@@ -43,32 +43,33 @@
       </div><!--/.nav-collapse --> 
     </div>
   </div>  
-</div>
+</div>  
 
-
-  <div class="row">
-    <div class="col-md-6 col-lg-3">
-        <div class="visible-lg text-success">Large Devices!</div>
-        <div class="visible-md text-warning">Medium Devices!</div>
-        <div class="visible-xs visible-sm text-danger">Extra Small and Small Devices</div>
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2" ng-repeat="site in socialSites">
+          <a href="{{site.link}}" target="_blank" class="thumbnail">
+          <img src="{{site.path}}" alt="{{site.name}}" width="120" height="120"/>
+          </a>
+        </div>
+      </div>
+      <div class="masonry">
+        <div class="grid-sizer"></div>
+        <div class="gutter-sizer"></div>
+        <div class="item">
+          <img src="http://placehold.it/200x170" alt="" />
+        </div>
+        <div class="item">
+          <img src="http://placehold.it/200x180" alt="" />
+        </div>
+        <div class="item">
+          <img src="http://placehold.it/200x190" alt="" />
+        </div>        
+        <div class="item">
+          <img src="http://placehold.it/200" alt="" />
+      </div>
     </div>
-    <div class="col-md-6 col-lg-3">
-        <div class="visible-lg text-success">Large Devices!</div>
-        <div class="visible-md text-warning">Medium Devices!</div>
-        <div class="visible-xs visible-sm text-danger">Extra Small and Small Devices</div>
-    </div>
-    <div class="col-md-6 col-lg-3">
-        <div class="visible-lg text-success">Large Devices!</div>
-        <div class="visible-md text-warning">Medium Devices!</div>
-        <div class="visible-xs visible-sm text-danger">Extra Small and Small Devices</div>
-    </div>    
-    <div class="col-md-6 col-lg-3">
-        <div class="visible-lg text-success">Large Devices!</div>
-        <div class="visible-md text-warning">Medium Devices!</div>
-        <div class="visible-xs visible-sm text-danger">Extra Small and Small Devices</div>
-    </div>    
-</div>
-
+  </div>
 
 <footer>
   <div class="container">
@@ -79,6 +80,7 @@
     </div>
   </div>
 </footer>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.min.js"></script>
 <script src="js/masonry.pkgd.js"></script>

@@ -1,35 +1,8 @@
-body, html {
-	width: auto;
-	height: auto;
-    padding: 0;
-    margin: 0;
+body {
+    padding-top: 70px; 
     background-color: rgba(241,241,241,0.5);
 }
 
-/*Main Navbar*/
-
-/*.navbar-header span.name{
-	display:inline;
-	min-width: 165px;
-}
-.navbar-header:hover span.name{
-	display:none;
-	-webkit-transition: 1.0s display linear;
-	-moz-transition: 1.0s display linear;
-	-o-transition: 1.0s display linear;
-	transition: 1.0s display linear;
-}
-.navbar-header span.career{
-	display:none;
-}
-.navbar-header:hover span.career{
-	display:inline;
-	font-size: 23px;
-	-webkit-transition: 1.0s display linear;
-	-moz-transition: 1.0s display linear;
-	-o-transition: 1.0s display linear;
-	transition: 1.0s display linear;
-}*/
 
 .navbar-brand.name{
 	font-size: 25px;
@@ -37,11 +10,7 @@ body, html {
 	color: #428bca;
 }
 
-.navbar-header{
-	min-width: 165px;
-}
 .navbar-container{
-	text-align: center;
 	padding-left: 40%; 
 }
 .navbar.navbar-fixed-top{
@@ -58,14 +27,14 @@ body, html {
 }
 .nav.navbar-nav>li>a{
 	color: black;
-	padding: 15px 30px;
 	font-size: 16px;
 }
-ul.nav.navbar-nav{
+
+/*ul.nav.navbar-nav{
 	margin: 0 auto;
 	text-align: center ;
 
-}
+}*/
 
 /*Collapsed Button*/
 .icon-bar{
@@ -76,77 +45,31 @@ ul.nav.navbar-nav{
 }
 
 
+.sections{
+  background-color: white;
+  border: 5px solid transparent;
+  border-color: lightgrey;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  padding: 2.5%;
+}
+
+.sections:hover, .sections:focus {
+  border: 5px solid #428bca;
+}
+
+
+footer{
+  background-color: white;
+  border: 1px solid transparent;
+  border-color: lightgrey;
+}
+
+}
 
 
 
-/*Resume Page*/
-
-/*Side Stacked Navbar*/
-.sideNavBar{
-	float: left;
-	margin-top: 25px;
-	margin-right: 25px;
-	margin-left: 50px;
-	margin-bottom: 25px;
-	background-color: white;
-	border: 1px solid transparent;
-	border-color: lightgrey;
-}
-.resumeContent{
-	margin-bottom: 25px;
-	margin-left: 25px;
-	margin-right: 25px;
-	background-color: white;
-}
-.nav.nav-pills>li.active>a, .nav.nav-pills>li.active>a:hover, .nav.nav-pills>li.active>a:focus {
-	background-color: rgba(66, 139, 202, 1);
-	color: white;
-}
-.nav.nav-pills>li>a:hover{
-	background-color: rgba(70, 70, 70, 1);
-	color: white;
-}
-
-.nav-stacked>li+li, .nav-stacked>li.active {
-	margin-top: 0px;
-  margin-bottom: 0px;
-}
-.nav-stacked>li+li {
-  margin-top: 0px;
-}
-
-.nav.nav-pills.nav-stacked{
-	margin: 25px 15px;
-}
-
-.nav.nav-pills>li>a {
-	border-radius: 0px;
-	padding: 5px 5px;
-	color: black;
-}
-
-.pageContent{
-	width: auto;
-	height: auto;
-	padding-top: 50px;
-	overflow: hidden;
-	margin-bottom: 50px;
-	background-color: rgba(241,241,241,0.5);
-}
-
-.mainContent{
-	width: auto;
-	height: auto;
-	overflow: hidden;
-	margin: 25px 50px;
-  min-width: 210px;
-	background-color: white;
-	border: 1px solid lightgrey;
-}
-
-.row{
-	margin: 25px;
-}
 
 a.thumbnail{
 	border:none;
@@ -175,7 +98,6 @@ h1.subheader{
     height: 211.14px;
     float: left;
     margin-right: 10px;
-    margin-bottom: 10px;
     text-align: center;
  }
 
@@ -192,6 +114,13 @@ h1.subheader{
 	width: 420px;
 }
 
+.tab-pane.active {
+  -webkit-transition: 2.2s all linear;
+  -moz-transition: 2.2s all linear;
+  -o-transition: 2.2s all linear;
+  transition: 2.2s all linear;
+}
+
 .tab-pane.fade.active.in {
 	-webkit-transition: .2s all linear;
 	-moz-transition: .2s all linear;
@@ -199,24 +128,6 @@ h1.subheader{
 	transition: .2s all linear;
 }
 
-.footer {
-	text-align: center;
-   	position:fixed;
-   	left:0px;
-   	bottom:0px;
-   	height:50px;
-   	width:100%;
-   	background-color:rgba(66, 139, 202, 1);
-   	color: white;
-    z-index: 40;
-}
-
-/* IE 6 */
-* html #footer {
-   position:absolute;
-   top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
-
-}
 
 
 
